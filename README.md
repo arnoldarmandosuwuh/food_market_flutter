@@ -1,16 +1,52 @@
-# food_market_flutter
+# Food Market
+Food Market merupakan sebuah project dari **BuildWithAngga** dengan menggunakan [Flutter](http://bit.ly/BWAFM "BWAFOODMARKET Flutter") dengan Back-End menggunakan Laravel 8
 
-A new Flutter project.
+---
+## Fitur
+- [x] API
+- [x] Login
+- [x] Register
+- [x] Food List
+- [x] Order List 
+- [x] Payment Gateway ([Midtrans](https://midtrans.com/id "Midtrans")) 
+---
+## Tools
+Tools yang digunakan :
+### foodmarket-backend
+1. [Composer](https://getcomposer.org/)
+2. [Laravel 8](https://laravel.com/)
+3. [Jetsream](https://jetstream.laravel.com/)
+4. [Tailwind CSS](https://tailwindcss.com/)
+5. [Laragon](https://laragon.org/)
+6. [XAMPP](https://www.apachefriends.org/)
+7. [phpMyAdmin](https://www.phpmyadmin.net/)
+### Food Market Flutter
+1. [Flutter SDK](https://flutter.dev/)
+### Penunjang
+1. [Visual Studio Code](https://code.visualstudio.com/)
+2. [Figma](https://www.figma.com/)
+3. [Postman](https://www.postman.com/)
+4. [Github](https://github.com/)
+5. [Java JDK 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
+6. [Android SDK](https://developer.android.com/studio)
+---
+## Project Repository
+1. Back-End Laravel [foodmarket-backend](https://github.com/arnoldarmandosuwuh/foodmarket-backend "Food Market Backend")
+---
+## How to Use
+1. Intall package
+   > `flutter pub get`
+2. Running android application
+   > `flutter run`
+---
+## Preview
+<p align="center">
+<img src="https://user-images.githubusercontent.com/33775307/105774774-4f000080-5f98-11eb-8090-3117a522f0c5.png" height="150" alt="Splash">
+<img src="https://user-images.githubusercontent.com/33775307/105774877-6fc85600-5f98-11eb-9f23-9754db080de8.png" height="150" alt="Splash">
+<img src="https://user-images.githubusercontent.com/33775307/105774884-722ab000-5f98-11eb-967d-6a79b1ea9c8b.png" height="150" alt="Splash">
+<img src="https://user-images.githubusercontent.com/33775307/105774870-6dfe9280-5f98-11eb-854b-cbf7e8528344.png" height="150" alt="Splash">
+</p>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+## Kelas Tutorial
+Untuk kelas tutorial dapat langsung mengakses [BuildWithAngga](https://www.buildwithangga.com/kelas "Kelas BuildWithAngga"). Informasi lebih lanjut kelas Food Market [Flutter](http://bit.ly/BWAFM "BWAFOODMARKET Flutter")
